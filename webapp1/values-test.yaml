@@ -1,0 +1,9 @@
+namespace: test
+
+configmap:
+  data:
+    CUSTOM_HEADER: "Welcome to your Testing Center!"
+
+data:
+  BG_COLOR: '#F38181'   # Soft red
+  FONT_COLOR: '#FCE38A' # Warm yellow

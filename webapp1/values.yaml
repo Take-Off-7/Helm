@@ -10,3 +10,9 @@ configmap:
 image:
   name: devopsjourney1/mywebapp
   tag: latest
+
+data:
+  BG_COLOR: '#2F5233'   # Forest green
+  FONT_COLOR: '#D8F3DC' # Pale mint
+
+
